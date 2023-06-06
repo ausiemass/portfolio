@@ -140,9 +140,9 @@ You can deploy this project using:
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[Desktop version]**
-- [ ] **[Contact Form]**
-- [ ] **[Mobile menu]**
+- [ ] **Desktop version**
+- [ ] **Contact Form**
+- [ ] **Mobile menu**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
